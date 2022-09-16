@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+/*Header tag*/
+
+header {
+    background-color: rgb(51, 51, 51);
+    z-index: -1;
+}
+
+.kep1{
+    z-index: 1;
+    margin-left: 10%;
+    padding-left:30%;
+    padding-right: 10%; 
+}
+
+.kep3{
+    padding-left:10%;
+    padding-right: 10%; 
+}
+
+#headerdiv1{
+    width: 40%;
+    height: 34px;
+    float: left;
+    background-color: rgb(51, 51, 51);
+}
+
+#headerdiv2{
+    padding-right: 0%;
+    width: 60%;
+    height: 34px;
+    float: left;
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+/*Header tag*/
+
+/*Navigációs pult*/
+
+#nav1{
+    float: left;
+    width: 30%;
+    padding-left: 20%;
+}
+
+#nav2{
+    float: left;
+    width: 40%;
+    color: black;
+    font-size: large;
+    padding-top: 2%;
+    padding-left: 0%;
+    font-family: monospace;
+}
+
+/*Navigációs pult vége*/
+
+#nagykep1{
+    padding-bottom: 3%;
+}
+
+#buszke{
+    background-color: rgb(58, 58, 58);
+    color:whitesmoke;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 27px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#buszke2{
+    
+}
