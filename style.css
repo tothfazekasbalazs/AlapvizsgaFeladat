@@ -30,7 +30,6 @@ header {
 }
 
 #headerdiv2{
-    padding-right: 0%;
     width: 60%;
     height: 34px;
     float: left;
@@ -61,6 +60,8 @@ header {
 
 #nagykep1{
     padding-bottom: 3%;
+    wildh:1820px;
+    height:800px;
 }
 
 #buszke{
@@ -75,6 +76,42 @@ header {
     text-align: center;
 }
 
-#buszke2{
-    
+#bk2{
+    float: left;
+    padding-top: 3%;
+    padding-left: 23%;
+}
+
+#bk3{
+    padding-top: 3%;
+    padding-right: 23%;
+    padding-left: 10%;
+    margin-left: 27%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.btn1{
+    background-color: rgb(58, 58, 58);
+    border: solid rgb(58, 58, 58);
+    color:whitesmoke;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    font-size: 14px;
+    margin-top: 63%;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+.btn1:hover{
+    background-color:gold;
+    border: solid gold;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    font-size: 14px;
+    margin-top: 63%;
+    border-radius: 5px;
 }
