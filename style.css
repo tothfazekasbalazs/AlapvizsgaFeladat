@@ -48,13 +48,50 @@ header {
 
 #nav2{
     float: left;
-    width: 40%;
+    width: 50%;
     color: black;
     font-size: large;
     padding-top: 2%;
     padding-left: 0%;
     font-family: monospace;
 }
+
+#nav2{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-size: large;
+    padding-top: 2%;
+    font-family: monospace;
+}
+
+#a1{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-family: monospace;
+    transition:0.4s;
+}
+
+#a1:hover{
+    text-decoration: none;
+    background-color: white;
+    color: rgb(255, 166, 0);
+    font-size: large;
+    font-family: monospace;
+}
+
+.link1{
+    text-decoration: none;
+    color:white;
+    transition: 0.4s;
+}
+
+.link1:hover{
+    color: orange;
+}
+
 
 /*Navigációs pult vége*/
 
