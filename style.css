@@ -157,6 +157,34 @@ header {
     border-radius: 5px;
 }
 
+.btn2{
+    background-color: rgb(58, 58, 58);
+    border: solid rgb(58, 58, 58);
+    color:whitesmoke;
+    margin-left: 7%;
+    padding:2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 14px;
+    margin-top: 15%;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+.btn2:hover{
+    background-color:gold;
+    border: solid gold;
+    color: black;
+    margin-left: 7%;
+    padding:2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 14px;
+    margin-top: 15%;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
 #nagykep2{
     padding-top: 6%;
     padding-bottom: 5%;
@@ -178,8 +206,41 @@ header {
 
 #ar{
     float: left;
+    width: 50%
 }
 
 #nyit{
-    float: left;
+    float: right;
+    width: 50%;
+}
+
+#cim{
+    font-size: 27px;
+    padding-left: 40%;
+    padding-top: 5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#cim2{
+    font-size: 27px;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#nyit2{
+    font-size: 18px;
+    padding-left: 7%;
+    padding-top: 2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nyit3{
+    font-size: 16px;
+    padding-left: 42%;
+    padding-top: 2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
