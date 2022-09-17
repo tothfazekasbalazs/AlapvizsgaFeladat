@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /*Header tag*/
 
 header {
@@ -97,7 +101,7 @@ header {
 
 #nagykep1{
     padding-bottom: 3%;
-    wilth:1820px;
+    width:1820px;
     height:800px;
 }
 
@@ -151,4 +155,31 @@ header {
     font-size: 14px;
     margin-top: 63%;
     border-radius: 5px;
+}
+
+#nagykep2{
+    padding-top: 6%;
+    padding-bottom: 5%;
+}
+
+#kekf{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 23%;
+    padding-top: 2%;
+}
+
+#buszke{
+    float: none;
+}
+
+#ar{
+    float: left;
+}
+
+#nyit{
+    float: left;
 }
