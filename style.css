@@ -288,3 +288,48 @@ header {
     padding-top: 2%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#footer0{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    border-top: 1px solid gray;
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 5%;
+    padding-top: 0.5%;
+}
+
+#footer1{
+    float: left;
+    width: 10%;
+}
+
+#footer2{
+    width: 65%;
+    float: left;
+    padding-left: 0%;
+}
+
+#footer3{
+    width: 100%;
+    float: center;
+    font-size: 15px;
+    padding-left: 20%;
+
+}
+
+#kep1{
+    padding-left: 5%;
+}
+
+#kep2{
+    padding-left: 2%;
+}
+
+#kep3{
+    padding-left: 2%;
+}
+
+.elvalasztas{
+    color: white;
+}
