@@ -45,11 +45,13 @@ header {
 #headerdiv1{
     width: 40%;
     height: 34px;
+    padding-top: 0.4%;
     float: left;
     background-color: rgb(51, 51, 51);
 }
 
 #headerdiv2{
+    padding-top: 0.4%;
     width: 60%;
     height: 34px;
     float: left;
